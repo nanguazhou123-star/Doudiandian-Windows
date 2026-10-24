@@ -37,6 +37,7 @@ The GIF combines real app states; it is not a continuous recording or speed test
 
 - [How to Turn an Image into a Fuse Bead Pattern on Windows](https://heykim.itch.io/doudiandian/devlog/1724439/how-to-turn-an-image-into-a-fuse-bead-pattern-on-windows)
 - [How to Adjust Colors and Count Beads in a Fuse Bead Pattern](https://heykim.itch.io/doudiandian/devlog/1724446/how-to-adjust-colors-and-count-beads-in-a-fuse-bead-pattern)
+- [How to Export A4 PNG Fuse Bead Pages on Windows](https://heykim.itch.io/doudiandian/devlog/1726114/how-to-export-a4-png-fuse-bead-pages-on-windows)
 - [Windows 怎么把图片转成拼豆图纸？附修改与用珠统计实例](https://heykim.itch.io/doudiandian/devlog/1724459/windows)
 
 ## Before making the design
